@@ -18,8 +18,8 @@ Vous devrez y utiliser au moins :
 - une analyse de concentration, via une courbe de Lorenz et un indice de Gini ;
 - des représentations graphiques, dont au moins un histogramme, une représentation avec des "boîtes à moustaches", et une représentation de série temporelle (c’est-à-dire un graphique dont l’axe des abscisses représente des dates) ;
 - des analyses bivariées.
-Y a-t-il une corrélation entre le sexe des clients et les catégories de produits achetés ?
-Y a-t-il une corrélation entre l'âge des clients et :
+#### Y a-t-il une corrélation entre le sexe des clients et les catégories de produits achetés ?
+#### Y a-t-il une corrélation entre l'âge des clients et :
 - Le montant total des achats ;
 - La fréquence d’achat (ie. nombre d'achats par mois par exemple) ;
 - La taille du panier moyen (en nombre d’articles) ;
