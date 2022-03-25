@@ -1,4 +1,4 @@
-# P4-Analysez-les-ventes-sur-internet-de-votre-entreprise
+# P4-Analysez-les-ventes-sur-internet-de-votre-entreprise (70h)
 
 # Compétences évaluées
 #### Décrire un jeu de données par la statistique descriptive
